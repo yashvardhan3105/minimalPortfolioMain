@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minimalPortfolioMain/static/css/main.de70350a.css",
+    "main.js": "/minimalPortfolioMain/static/js/main.e3990b57.js",
+    "index.html": "/minimalPortfolioMain/index.html",
+    "main.de70350a.css.map": "/minimalPortfolioMain/static/css/main.de70350a.css.map",
+    "main.e3990b57.js.map": "/minimalPortfolioMain/static/js/main.e3990b57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de70350a.css",
+    "static/js/main.e3990b57.js"
+  ]
+}
